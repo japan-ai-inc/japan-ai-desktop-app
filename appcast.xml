@@ -20,5 +20,14 @@
       <pubDate>Wed, 08 Apr 2026 15:36:38 +0900</pubDate>
       <enclosure url="https://github.com/japan-ai-inc/japan-ai-desktop-app/releases/download/v1.0.1/JapanAI-1.0.1.zip" sparkle:edSignature="Gsu8s/2tokyEasGdSu1+K4NYz/tsZ2UVWQ67gc5bp+D9BC3K7ufntKER3ynea6EswXAbIvN+HDhutGyOzGIDBw==" length="10056402" type="application/octet-stream"/>
     </item>
+    <item>
+      <title>Version 1.0.2</title>
+      <sparkle:version>1227</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <description xml:lang="en">Fix theme switching and appearance persistence </description>
+      <description xml:lang="ja">テーマ切り替えと外観設定の保持を修正 </description>
+      <pubDate>Wed, 08 Apr 2026 17:19:30 +0900</pubDate>
+      <enclosure url="https://github.com/japan-ai-inc/japan-ai-desktop-app/releases/download/v1.0.2/JapanAI-1.0.2.zip" sparkle:edSignature="izStNZhEbYWv9njTMlD7tyM7JecQTimwHcQKdf+5gPohlTP2QqNW12PeouGjgovzE8B60mfTVZ4y0srnexPuDg==" length="10064856" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
