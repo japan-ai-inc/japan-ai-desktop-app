@@ -2,5 +2,14 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>JapanAI</title>
+    <item>
+      <title>Version 1.0.0</title>
+      <sparkle:version>1222</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <description xml:lang="en">Initial release </description>
+      <description xml:lang="ja">初回リリース </description>
+      <pubDate>Wed, 08 Apr 2026 13:54:50 +0900</pubDate>
+      <enclosure url="https://github.com/japan-ai-inc/japan-ai-desktop-app/releases/download/v1.0.0/JapanAI-1.0.0.zip" sparkle:edSignature="R+y1wMNDFp7pQsWtzOaDu4M4Ax9J5d2lUYjOvrw6DpP4TfKQVBiVwzUwp8C+Yoj2GI3yYsTaZC5DObw8FqfkCA==" length="10050882" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
