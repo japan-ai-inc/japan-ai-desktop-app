@@ -38,5 +38,14 @@
       <pubDate>Thu, 09 Apr 2026 09:50:05 +0900</pubDate>
       <enclosure url="https://github.com/japan-ai-inc/japan-ai-desktop-app/releases/download/v1.0.3/JapanAI-1.0.3.zip" sparkle:edSignature="fd3WUfsURq2tIaVP6fpLU606VuFdgpXionLpx0rr1dT20COU583YQ/hvQEKGMx+HeeK+DNYWUfKxv8DNvgOJBQ==" length="10081088" type="application/octet-stream"/>
     </item>
+    <item>
+      <title>Version 1.0.4</title>
+      <sparkle:version>1236</sparkle:version>
+      <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+      <description xml:lang="en">Added quick chat: press ⌃⌥J or click the status bar icon to quickly send messages from any app. </description>
+      <description xml:lang="ja">クイックチャット機能を追加：⌃⌥Jキーまたはステータスバーアイコンをクリックして、どのアプリからでも素早くメッセージを送信できます。 </description>
+      <pubDate>Thu, 09 Apr 2026 23:27:30 +0900</pubDate>
+      <enclosure url="https://github.com/japan-ai-inc/japan-ai-desktop-app/releases/download/v1.0.4/JapanAI-1.0.4.zip" sparkle:edSignature="dBXGGsCfF0aa8Woy29+jVfRT2Xh6VA0YMO9YDrG0UjpNTsggsrzWTr+szFlHHDPHnDx4KqTFL6TL7+akK+7gDA==" length="10293450" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
