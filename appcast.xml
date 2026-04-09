@@ -29,5 +29,14 @@
       <pubDate>Wed, 08 Apr 2026 17:19:30 +0900</pubDate>
       <enclosure url="https://github.com/japan-ai-inc/japan-ai-desktop-app/releases/download/v1.0.2/JapanAI-1.0.2.zip" sparkle:edSignature="izStNZhEbYWv9njTMlD7tyM7JecQTimwHcQKdf+5gPohlTP2QqNW12PeouGjgovzE8B60mfTVZ4y0srnexPuDg==" length="10064856" type="application/octet-stream"/>
     </item>
+    <item>
+      <title>Version 1.0.3</title>
+      <sparkle:version>1231</sparkle:version>
+      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+      <description xml:lang="en">Fixed an issue where input bar colors could display incorrectly on app launch when using a different appearance from the system default. </description>
+      <description xml:lang="ja">システムデフォルトと異なる外観を使用している場合に、アプリ起動時に入力バーの色が正しく表示されない問題を修正しました。 </description>
+      <pubDate>Thu, 09 Apr 2026 09:50:05 +0900</pubDate>
+      <enclosure url="https://github.com/japan-ai-inc/japan-ai-desktop-app/releases/download/v1.0.3/JapanAI-1.0.3.zip" sparkle:edSignature="fd3WUfsURq2tIaVP6fpLU606VuFdgpXionLpx0rr1dT20COU583YQ/hvQEKGMx+HeeK+DNYWUfKxv8DNvgOJBQ==" length="10081088" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
