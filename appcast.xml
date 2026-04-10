@@ -3,15 +3,6 @@
   <channel>
     <title>JapanAI</title>
     <item>
-      <title>Version 1.0.3</title>
-      <sparkle:version>1231</sparkle:version>
-      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
-      <description xml:lang="en">Fixed an issue where input bar colors could display incorrectly on app launch when using a different appearance from the system default. </description>
-      <description xml:lang="ja">システムデフォルトと異なる外観を使用している場合に、アプリ起動時に入力バーの色が正しく表示されない問題を修正しました。 </description>
-      <pubDate>Thu, 09 Apr 2026 09:50:05 +0900</pubDate>
-      <enclosure url="https://github.com/japan-ai-inc/japan-ai-desktop-app/releases/download/v1.0.3/JapanAI-1.0.3.zip" sparkle:edSignature="fd3WUfsURq2tIaVP6fpLU606VuFdgpXionLpx0rr1dT20COU583YQ/hvQEKGMx+HeeK+DNYWUfKxv8DNvgOJBQ==" length="10081088" type="application/octet-stream"/>
-    </item>
-    <item>
       <title>Version 1.0.4</title>
       <sparkle:version>1236</sparkle:version>
       <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
@@ -28,6 +19,15 @@
       <description xml:lang="ja">- ルームへ移動: Cmd+K でチャットルームを検索してすばやく移動 </description>
       <pubDate>Fri, 10 Apr 2026 11:24:05 +0900</pubDate>
       <enclosure url="https://github.com/japan-ai-inc/japan-ai-desktop-app/releases/download/v1.0.5/JapanAI-1.0.5.zip" sparkle:edSignature="79LYlHyYe5fg3iWRfOWfmlV4iRGocnMbI5wVMlhIPDwt3z1l9PKaEF/y2qvYKqH35wTIoHPrVg5y9hLd+uMaBg==" length="10305708" type="application/octet-stream"/>
+    </item>
+    <item>
+      <title>Version 1.0.6</title>
+      <sparkle:version>1240</sparkle:version>
+      <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+      <description xml:lang="en">Bug fixes and improvements. </description>
+      <description xml:lang="ja">バグの修正と改善を行いました。 </description>
+      <pubDate>Fri, 10 Apr 2026 13:23:53 +0900</pubDate>
+      <enclosure url="https://github.com/japan-ai-inc/japan-ai-desktop-app/releases/download/v1.0.6/JapanAI-1.0.6.zip" sparkle:edSignature="Cmb7i7WeqrdRsp2qN6jih0IgpgH9nPpAVilhXy0bvT5/cMmvqFogjdt9NzsOyebY1zbWQ1fwewee5QqP4XiRBA==" length="10305792" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
