@@ -3,33 +3,6 @@
   <channel>
     <title>JapanAI</title>
     <item>
-      <title>Version 1.0.0</title>
-      <sparkle:version>1222</sparkle:version>
-      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-      <description xml:lang="en">Initial release </description>
-      <description xml:lang="ja">初回リリース </description>
-      <pubDate>Wed, 08 Apr 2026 13:54:50 +0900</pubDate>
-      <enclosure url="https://github.com/japan-ai-inc/japan-ai-desktop-app/releases/download/v1.0.0/JapanAI-1.0.0.zip" sparkle:edSignature="R+y1wMNDFp7pQsWtzOaDu4M4Ax9J5d2lUYjOvrw6DpP4TfKQVBiVwzUwp8C+Yoj2GI3yYsTaZC5DObw8FqfkCA==" length="10050882" type="application/octet-stream"/>
-    </item>
-    <item>
-      <title>Version 1.0.1</title>
-      <sparkle:version>1225</sparkle:version>
-      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-      <description xml:lang="en">Fix table links and column widths </description>
-      <description xml:lang="ja">テーブルリンクと列幅の修正 </description>
-      <pubDate>Wed, 08 Apr 2026 15:36:38 +0900</pubDate>
-      <enclosure url="https://github.com/japan-ai-inc/japan-ai-desktop-app/releases/download/v1.0.1/JapanAI-1.0.1.zip" sparkle:edSignature="Gsu8s/2tokyEasGdSu1+K4NYz/tsZ2UVWQ67gc5bp+D9BC3K7ufntKER3ynea6EswXAbIvN+HDhutGyOzGIDBw==" length="10056402" type="application/octet-stream"/>
-    </item>
-    <item>
-      <title>Version 1.0.2</title>
-      <sparkle:version>1227</sparkle:version>
-      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
-      <description xml:lang="en">Fix theme switching and appearance persistence </description>
-      <description xml:lang="ja">テーマ切り替えと外観設定の保持を修正 </description>
-      <pubDate>Wed, 08 Apr 2026 17:19:30 +0900</pubDate>
-      <enclosure url="https://github.com/japan-ai-inc/japan-ai-desktop-app/releases/download/v1.0.2/JapanAI-1.0.2.zip" sparkle:edSignature="izStNZhEbYWv9njTMlD7tyM7JecQTimwHcQKdf+5gPohlTP2QqNW12PeouGjgovzE8B60mfTVZ4y0srnexPuDg==" length="10064856" type="application/octet-stream"/>
-    </item>
-    <item>
       <title>Version 1.0.3</title>
       <sparkle:version>1231</sparkle:version>
       <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
@@ -46,6 +19,15 @@
       <description xml:lang="ja">クイックチャット機能を追加：⌃⌥Jキーまたはステータスバーアイコンをクリックして、どのアプリからでも素早くメッセージを送信できます。 </description>
       <pubDate>Thu, 09 Apr 2026 23:27:30 +0900</pubDate>
       <enclosure url="https://github.com/japan-ai-inc/japan-ai-desktop-app/releases/download/v1.0.4/JapanAI-1.0.4.zip" sparkle:edSignature="dBXGGsCfF0aa8Woy29+jVfRT2Xh6VA0YMO9YDrG0UjpNTsggsrzWTr+szFlHHDPHnDx4KqTFL6TL7+akK+7gDA==" length="10293450" type="application/octet-stream"/>
+    </item>
+    <item>
+      <title>Version 1.0.5</title>
+      <sparkle:version>1238</sparkle:version>
+      <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+      <description xml:lang="en">- Go to Room: press Cmd+K to search and jump to any chat room instantly </description>
+      <description xml:lang="ja">- ルームへ移動: Cmd+K でチャットルームを検索してすばやく移動 </description>
+      <pubDate>Fri, 10 Apr 2026 11:24:05 +0900</pubDate>
+      <enclosure url="https://github.com/japan-ai-inc/japan-ai-desktop-app/releases/download/v1.0.5/JapanAI-1.0.5.zip" sparkle:edSignature="79LYlHyYe5fg3iWRfOWfmlV4iRGocnMbI5wVMlhIPDwt3z1l9PKaEF/y2qvYKqH35wTIoHPrVg5y9hLd+uMaBg==" length="10305708" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
