@@ -1,33 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>JapanAI</title>
+    <title>JAPAN AI</title>
     <item>
-      <title>Version 1.0.4</title>
-      <sparkle:version>1236</sparkle:version>
-      <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
-      <description xml:lang="en">Added quick chat: press ⌃⌥J or click the status bar icon to quickly send messages from any app. </description>
-      <description xml:lang="ja">クイックチャット機能を追加：⌃⌥Jキーまたはステータスバーアイコンをクリックして、どのアプリからでも素早くメッセージを送信できます。 </description>
-      <pubDate>Thu, 09 Apr 2026 23:27:30 +0900</pubDate>
-      <enclosure url="https://github.com/japan-ai-inc/japan-ai-desktop-app/releases/download/v1.0.4/JapanAI-1.0.4.zip" sparkle:edSignature="dBXGGsCfF0aa8Woy29+jVfRT2Xh6VA0YMO9YDrG0UjpNTsggsrzWTr+szFlHHDPHnDx4KqTFL6TL7+akK+7gDA==" length="10293450" type="application/octet-stream"/>
-    </item>
-    <item>
-      <title>Version 1.0.5</title>
-      <sparkle:version>1238</sparkle:version>
-      <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
-      <description xml:lang="en">- Go to Room: press Cmd+K to search and jump to any chat room instantly </description>
-      <description xml:lang="ja">- ルームへ移動: Cmd+K でチャットルームを検索してすばやく移動 </description>
-      <pubDate>Fri, 10 Apr 2026 11:24:05 +0900</pubDate>
-      <enclosure url="https://github.com/japan-ai-inc/japan-ai-desktop-app/releases/download/v1.0.5/JapanAI-1.0.5.zip" sparkle:edSignature="79LYlHyYe5fg3iWRfOWfmlV4iRGocnMbI5wVMlhIPDwt3z1l9PKaEF/y2qvYKqH35wTIoHPrVg5y9hLd+uMaBg==" length="10305708" type="application/octet-stream"/>
-    </item>
-    <item>
-      <title>Version 1.0.6</title>
-      <sparkle:version>1240</sparkle:version>
-      <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
-      <description xml:lang="en">Bug fixes and improvements. </description>
-      <description xml:lang="ja">バグの修正と改善を行いました。 </description>
-      <pubDate>Fri, 10 Apr 2026 13:23:53 +0900</pubDate>
-      <enclosure url="https://github.com/japan-ai-inc/japan-ai-desktop-app/releases/download/v1.0.6/JapanAI-1.0.6.zip" sparkle:edSignature="Cmb7i7WeqrdRsp2qN6jih0IgpgH9nPpAVilhXy0bvT5/cMmvqFogjdt9NzsOyebY1zbWQ1fwewee5QqP4XiRBA==" length="10305792" type="application/octet-stream"/>
+      <title>Version 0.5.0</title>
+      <sparkle:version>2420</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description xml:lang="en"><![CDATA[The new JAPAN AI desktop app, first released for dogfooding.<br>Chat with JAPAN AI&#x27;s agents, or open a folder on this Mac and let the agent read, edit and run commands there, as the permissions you choose allow.<br>Attach files and pictures, use your organization&#x27;s plugins, and run work in the background.<br>The app checks for updates once a day and asks before installing; Check for Updates… in the JAPAN AI menu checks now.]]></description>
+      <description xml:lang="ja"><![CDATA[新しい JAPAN AI デスクトップアプリの、社内試用向けの最初のリリースです。<br>JAPAN AI のエージェントとチャットできるほか、この Mac のフォルダを開くと、選んだ権限の範囲でエージェントがファイルの読み取り・編集やコマンドの実行を行います。<br>ファイルや画像の添付、組織のプラグイン、バックグラウンドでの作業に対応しています。<br>アップデートは1日に1回確認し、インストールの前にお知らせします。JAPAN AI メニューの「アップデートを確認…」ですぐに確認することもできます。]]></description>
+      <pubDate>Thu, 19 Nov 2026 14:24:15 +0900</pubDate>
+      <enclosure url="https://github.com/japan-ai-inc/japan-ai-desktop-app/releases/download/v0.5.0/JAPAN-AI-0.5.0.zip" sparkle:edSignature="duyAL7kj+yvyR8rI7Uz5TfK+7nUC9wxcVDMl4HCEc3+og5HJZ9NviqgT5xlu/dmnUqLsAeJ85nr/ppQxnr+JDg==" length="17903335" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
