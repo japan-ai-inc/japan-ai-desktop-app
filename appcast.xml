@@ -13,5 +13,16 @@
       <pubDate>Thu, 19 Nov 2026 14:24:15 +0900</pubDate>
       <enclosure url="https://github.com/japan-ai-inc/japan-ai-desktop-app/releases/download/v0.5.0/JAPAN-AI-0.5.0.zip" sparkle:edSignature="duyAL7kj+yvyR8rI7Uz5TfK+7nUC9wxcVDMl4HCEc3+og5HJZ9NviqgT5xlu/dmnUqLsAeJ85nr/ppQxnr+JDg==" length="17903335" type="application/octet-stream"/>
     </item>
+    <item>
+      <title>Version 0.5.1</title>
+      <sparkle:version>2435</sparkle:version>
+      <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <description xml:lang="en"><![CDATA[Commands that only read the folder, such as ls, cat, grep or git status, now run without asking in Manual and Accept edits; in Accept edits, so do commands that only make, copy or move files in the folder.<br>Allow now has a menu beside it: Always Allow (⌥⌘↩) stops asking for a command such as npm test for the rest of the conversation.<br>Asking for approval no longer opens the command&#x27;s details in the conversation, and the agent keeps its task plan up to date as it works.<br>Opening a conversation shows its agent sooner, long replies with links or tables update more smoothly as they arrive, and numbered lists with code between their steps keep their numbers.]]></description>
+      <description xml:lang="ja"><![CDATA[フォルダを読み取るだけのコマンド（ls、cat、grep、git status など）は、「手動」と「編集を自動承認」で確認なしに実行されるようになりました。「編集を自動承認」では、フォルダ内でファイルを作成・コピー・移動するだけのコマンドも確認なしに実行されます。<br>「許可」の横にメニューが追加されました。「常に許可」（⌥⌘↩）を選ぶと、そのチャットでは npm test などのコマンドを再び確認しません。<br>承認を求めるときに会話内のコマンドの詳細を自動で開かなくなり、エージェントは作業の進み具合に合わせてタスクの計画を更新するようになりました。<br>会話を開いたときにエージェントがより早く表示され、リンクや表を含む長い回答が受信中もより滑らかに表示されます。コードをはさんだ番号付きリストも正しく番号付きで表示されます。]]></description>
+      <pubDate>Fri, 20 Nov 2026 17:08:22 +0900</pubDate>
+      <enclosure url="https://github.com/japan-ai-inc/japan-ai-desktop-app/releases/download/v0.5.1/JAPAN-AI-0.5.1.zip" sparkle:edSignature="1uj5x0Xb2h+27NKLVGSbYIoxzzs5nf7bHvMfE+dNnZSGj5gh+vkrIztjfVSPwZM2138LIUewi0QBoCjYElQfDQ==" length="18171751" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
